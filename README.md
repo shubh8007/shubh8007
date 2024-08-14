@@ -81,3 +81,19 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shubh8007&theme=radical" alt="GitHub Streak" />
 </p>
+
+<h3 align="center">Coding in Style:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/blackcater/github-profile-summary-cards-example/master/images/0.svg" alt="Coding" width="300" />
+  <img src="https://raw.githubusercontent.com/blackcater/github-profile-summary-cards-example/master/images/2.svg" alt="Coding" width="300" />
+</p>
+
+<h3 align="center">Recent Projects:</h3>
+<p align="center">
+  <a href="https://github.com/shubh8007/your-repo">
+    <img src="https://img.shields.io/github/repo-size/shubh8007/your-repo?color=success" alt="Repo Size"/>
+  </a>
+  <a href="https://github.com/shubh8007/your-repo">
+    <img src="https://img.shields.io/github/last-commit/shubh8007/your-repo" alt="Last Commit"/>
+  </a>
+</p>
