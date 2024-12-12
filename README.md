@@ -1,5 +1,4 @@
 <h1 align="center">Welcome to Shubham Suryawanshi's Profile</h1>
-<h3 align="center">Software Developer @ Zest India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shubh8007&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
